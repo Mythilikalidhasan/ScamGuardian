@@ -1,0 +1,39 @@
+SCAM TYPE: Lottery / Prize / Fictitious Offer Scam
+
+DESCRIPTION:
+A lottery or prize scam tells a person that they have won money, a prize, or another benefit even though they did not knowingly enter a genuine competition. The fraudster may then request a processing fee, tax, conversion charge, clearance fee, or other payment before releasing the supposed prize.
+
+COMMON TACTICS:
+- Unexpected lottery-winning messages
+- Claims of large cash prizes or foreign funds
+- Fake official letters, emails, websites, or certificates
+- Requests for processing, tax, conversion, or clearance fees
+- Repeated requests for additional payments
+- Impersonation of banks, regulators, or public authorities
+
+WARNING SIGNS:
+- You are told you won something you do not remember entering
+- You must pay money before receiving the prize
+- The sender asks for confidential banking information
+- The message creates urgency
+- Official names or logos are used to make the offer appear genuine
+- More payments are requested after an initial payment
+
+WHAT TO DO:
+- Do not pay a fee to receive an unexpected prize or foreign-fund offer.
+- Do not share OTP, PIN, password, or banking credentials.
+- Do not trust an official-looking document without independent verification.
+- Verify the organization through its genuine official website.
+- Report suspected fraud to the appropriate law-enforcement or cybercrime authority.
+
+EXAMPLE:
+"Congratulations! You won ₹50,000. Pay ₹999 processing fee to receive your prize."
+
+SOURCE:
+- Reserve Bank of India, RBI cautions Public Once Again against Fictitious Offers
+  https://www.rbi.org.in/commonman/english/Scripts/PressReleases.aspx?Id=2440
+- National Cyber Crime Reporting Portal
+  https://cybercrime.gov.in/
+
+NOTE:
+The example above is a project example created for ScamGuardian. It is not presented as a real reported incident.

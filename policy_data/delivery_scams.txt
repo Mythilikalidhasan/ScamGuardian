@@ -1,0 +1,41 @@
+SCAM TYPE: Delivery / Courier Scam
+
+DESCRIPTION:
+A delivery scam uses a fake or misleading message about a parcel, shipment, delivery problem, customs issue, address problem, or payment requirement. The sender may try to make the recipient click a link, provide personal information, make a payment, or install an application.
+
+COMMON TACTICS:
+- Fake parcel or courier notifications
+- Claims that a delivery cannot be completed
+- Requests to update an address through a link
+- Small payment requests for delivery or rescheduling
+- Fake refund or failed-delivery messages
+- Links to websites that imitate courier or service providers
+- Requests to install unknown applications
+
+WARNING SIGNS:
+- You are not expecting a parcel
+- Unexpected link or attachment
+- Urgent request to pay or update information
+- Website address does not match the delivery company's official website
+- Request for OTP, PIN, password, or banking credentials
+- Unknown customer-support contact
+
+WHAT TO DO:
+- Verify the parcel using the delivery company's official website or application.
+- Do not click unexpected delivery links.
+- Do not share OTP, PIN, password, or card details.
+- Do not install an application sent through an unsolicited delivery message.
+- If payment is requested, independently verify the order and recipient details first.
+- Report suspected cyber fraud through the appropriate official reporting channel.
+
+EXAMPLE:
+"Your parcel is on hold. Pay ₹25 through this link to reschedule delivery."
+
+SOURCE:
+- National Cyber Crime Reporting Portal
+  https://cybercrime.gov.in/
+- U.S. Federal Trade Commission, Scams
+  https://consumer.ftc.gov/scams
+
+NOTE:
+The example above is a project example created for ScamGuardian. It is not presented as a real reported incident. The FTC source is used for general scam-awareness structure; ScamGuardian is intended for an India-focused context.

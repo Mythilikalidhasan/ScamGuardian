@@ -1,0 +1,43 @@
+SCAMGUARDIAN SAFETY GUIDELINES
+
+PURPOSE:
+These guidelines provide general safety actions for users who receive suspicious SMS messages, WhatsApp messages, emails, calls, links, payment requests, or scam offers.
+
+CORE RULES:
+1. Do not share OTP, UPI PIN, ATM/debit/credit card PIN, CVV, passwords, or other confidential credentials with unsolicited contacts.
+2. Do not click unexpected links in messages or emails.
+3. Do not download unknown applications suggested by an unsolicited caller or message.
+4. Verify banks, companies, government organizations, and service providers through their official websites or official applications.
+5. Do not trust a message simply because it contains an official-looking logo, name, document, or signature.
+6. Be cautious when a message creates fear, urgency, or pressure to act immediately.
+7. Do not pay unexpected processing, registration, clearance, delivery, prize, or investment fees without independent verification.
+8. Be careful with QR codes and UPI payment requests. A request to receive money should not require entering a UPI PIN.
+9. Check website addresses carefully for spelling and domain differences.
+10. Avoid using the same password for banking, email, shopping, and social-media accounts.
+11. Avoid conducting banking through public, open, or free networks.
+12. Regularly check bank and financial-service alerts for unauthorized transactions.
+13. If an unauthorized transaction occurs, contact the bank/payment provider immediately.
+14. Preserve suspicious messages, phone numbers, email addresses, links, and transaction information for reporting.
+15. Report suspected cybercrime through the official Indian cybercrime reporting system.
+
+RBI DIGITAL BANKING GUIDANCE:
+The Reserve Bank of India advises the public not to share account details, login IDs, passwords, PINs, UPI PINs, OTPs, or card details. It also warns about fake KYC messages, unknown applications, unauthorized QR codes, fake bank contact numbers, suspicious URLs, and fraudulent payment requests.
+
+SCAMGUARDIAN LIMITATION:
+ScamGuardian is an awareness and explanation system. Its risk indicator is a simple internal project heuristic and is not a scientifically validated probability of fraud. A HIGH or CRITICAL result should be treated as a warning to verify the message, not as proof that a message is fraudulent.
+
+EMERGENCY ACTION FOR SUSPECTED FINANCIAL FRAUD:
+- Contact the relevant bank, wallet, or payment service immediately.
+- Follow the provider's official instructions for securing the account or blocking further transactions.
+- Report the incident to the appropriate cybercrime/law-enforcement authority.
+- Keep evidence such as messages, screenshots, transaction references, phone numbers, and URLs.
+
+SOURCE:
+- Reserve Bank of India, Consumer Awareness - Cyber Threats and Frauds
+  https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=53185
+- Reserve Bank of India, RBI cautions Public Once Again against Fictitious Offers
+  https://www.rbi.org.in/commonman/english/Scripts/PressReleases.aspx?Id=2440
+- National Cyber Crime Reporting Portal
+  https://cybercrime.gov.in/
+- U.S. Federal Trade Commission, Scams
+  https://consumer.ftc.gov/scams

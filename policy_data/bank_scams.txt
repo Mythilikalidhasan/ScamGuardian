@@ -1,0 +1,41 @@
+SCAM TYPE: Bank Impersonation / Bank and KYC Scam
+
+DESCRIPTION:
+In a bank or KYC scam, fraudsters pretend to be a bank, financial institution, wallet provider, or service provider. They may claim that KYC must be updated, an account is blocked, a payment failed, or a refund is waiting. The aim may be to obtain confidential information or money.
+
+COMMON TACTICS:
+- Fake KYC update requests
+- Account blocking or suspension threats
+- Requests for OTP, PIN, password, CVV, card details, or login credentials
+- Fake customer-support messages or phone numbers
+- Suspicious verification links
+- Requests to install remote-access or unknown applications
+- Fake calls pretending to be bank, wallet, or telecom representatives
+
+WARNING SIGNS:
+- Urgency or fear
+- Impersonation of a trusted bank or financial service
+- Unexpected link
+- Request for confidential information
+- Request for payment or transfer
+- Caller or website provides a number that is not verified through the official bank website
+
+WHAT TO DO:
+- Never share account number, login ID, password, PIN, UPI PIN, OTP, ATM/debit/credit card details, or CVV with an unsolicited caller or message.
+- Do not click a KYC link received unexpectedly.
+- Access the official website or official application of the bank or financial service directly.
+- Do not download unknown applications.
+- If you receive an OTP for a transaction you did not initiate, contact the bank or service provider immediately.
+- Report unauthorized transactions immediately to the relevant bank/service provider and the appropriate cybercrime authority.
+
+EXAMPLE:
+"Your bank account will be blocked today. Complete KYC immediately using this link."
+
+SOURCE:
+- Reserve Bank of India, Consumer Awareness - Cyber Threats and Frauds
+  https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=53185
+- Reserve Bank of India, RBI cautions Public Once Again against Fictitious Offers
+  https://www.rbi.org.in/commonman/english/Scripts/PressReleases.aspx?Id=2440
+
+NOTE:
+The example above is a project example created for ScamGuardian. It is not presented as a real reported incident.

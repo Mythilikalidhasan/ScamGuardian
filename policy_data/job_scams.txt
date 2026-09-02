@@ -1,0 +1,40 @@
+SCAM TYPE: Job / Work-from-Home Scam
+
+DESCRIPTION:
+A job scam uses a fake or misleading employment opportunity to obtain money or personal information from a job seeker. Scammers may promise easy work, unusually high earnings, or immediate selection and then ask for a registration fee, processing fee, training fee, deposit, or other payment.
+
+COMMON TACTICS:
+- Work-from-home offers promising unusually high earnings
+- Fake recruitment messages sent through SMS, WhatsApp, email, or social media
+- Claims of immediate selection without a normal recruitment process
+- Requests for registration, verification, training, or processing fees
+- Requests for personal or financial information before the employer is verified
+- Pressure to pay quickly to secure a position
+
+WARNING SIGNS:
+- Very high income promised for little or no work
+- Upfront payment required to obtain the job
+- Unverified employer or recruiter
+- Pressure to act immediately
+- Suspicious links or forms
+- Requests for sensitive banking information unrelated to a legitimate recruitment step
+
+WHAT TO DO:
+- Verify the company and vacancy using an independently found official website.
+- Do not pay an upfront fee merely to obtain a job.
+- Do not share OTPs, PINs, passwords, or banking credentials with a recruiter.
+- Be cautious with unexpected recruitment messages and links.
+- Keep copies of suspicious messages and transaction records if a scam is suspected.
+- Report suspected cybercrime through the appropriate official reporting channel.
+
+EXAMPLE:
+"Work from home and earn ₹5,000 per day. Pay ₹499 registration fee to start."
+
+SOURCE:
+- U.S. Federal Trade Commission, Scams and consumer scam guidance
+  https://consumer.ftc.gov/scams
+- National Cyber Crime Reporting Portal
+  https://cybercrime.gov.in/
+
+NOTE:
+The example above is a project example created for ScamGuardian. It is not presented as a real reported incident. The FTC source is used for general scam-awareness structure; ScamGuardian is intended for an India-focused context.

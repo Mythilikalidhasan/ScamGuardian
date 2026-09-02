@@ -1,0 +1,39 @@
+SCAM TYPE: Government / Official-Authority Impersonation
+
+DESCRIPTION:
+In an impersonation scam, fraudsters pretend to represent a government department, regulator, police authority, bank, or other trusted public organization. They may use official-looking names, logos, documents, websites, or messages to create trust and pressure a person into paying money or sharing information.
+
+COMMON TACTICS:
+- Fake messages using the name of a government authority
+- Fake websites with official-looking logos or names
+- Threats of account action, legal action, or penalties
+- Requests for fees, taxes, processing charges, or transfers
+- Fake officials or representatives contacting victims
+- Claims of lottery winnings, foreign funds, grants, or other benefits
+
+WARNING SIGNS:
+- Unexpected contact claiming to be an authority
+- Request for money to receive a benefit or release funds
+- Pressure to act immediately
+- Official-looking communication that comes from an unverified address or website
+- Request for confidential banking information
+- Website domain or contact details that do not match the genuine organization
+
+WHAT TO DO:
+- Do not trust a message only because it uses a government name or logo.
+- Verify the organization through its official website.
+- Do not send money to receive an unexpected prize, benefit, or foreign remittance.
+- Do not share OTP, PIN, password, or banking credentials with an unsolicited contact.
+- Report suspected fraud to local law enforcement or the appropriate cybercrime authority.
+
+SOURCE:
+- Reserve Bank of India, RBI cautions Public Once Again against Fictitious Offers
+  https://www.rbi.org.in/commonman/english/Scripts/PressReleases.aspx?Id=2440
+- National Cyber Crime Reporting Portal
+  https://cybercrime.gov.in/
+
+RBI-SPECIFIC SAFETY POINT:
+The RBI states that it does not contact the public through unsolicited phone calls or emails asking for money or personal information. It also cautions the public about fake websites and impersonated officials.
+
+NOTE:
+The project should not claim that every message mentioning a government organization is fraudulent. The system should identify warning signs and explain why a message may be suspicious.

@@ -1,0 +1,42 @@
+SCAM TYPE: Phishing
+
+DESCRIPTION:
+Phishing is a scam in which a fraudster sends a fake email, SMS, WhatsApp message, social-media message, or website link that appears to come from a trusted organization. The goal may be to make the recipient reveal confidential information, click a malicious link, or make a payment.
+
+COMMON TACTICS:
+- Fake bank, wallet, government, delivery, or service messages
+- Messages containing suspicious verification or login links
+- Requests to update KYC or verify an account
+- Messages creating urgency or fear
+- Fake notifications about account blocking, refunds, rewards, or payments
+- Spoofed emails or SMS messages that imitate a trusted organization
+
+WARNING SIGNS:
+- Unexpected message or link
+- Urgent demand to act immediately
+- Request for OTP, PIN, password, CVV, or other confidential information
+- Website address with spelling or domain differences
+- Threat that an account will be blocked or suspended
+- Request to download an unknown application
+
+WHAT TO DO:
+- Do not click unexpected links.
+- Do not share OTP, PIN, password, CVV, or other confidential information.
+- Check the organization using its official website or official application.
+- Do not download an unknown application from a message or caller.
+- If financial information may have been exposed, contact the relevant bank or service provider immediately.
+- Report suspected cybercrime through the official Indian cybercrime reporting system.
+
+EXAMPLE:
+"Your account will be blocked today. Verify your details immediately using the link below."
+
+SOURCE:
+- Reserve Bank of India, Consumer Awareness - Cyber Threats and Frauds
+  https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=53185
+- National Cyber Crime Reporting Portal
+  https://cybercrime.gov.in/
+- U.S. Federal Trade Commission, Scams
+  https://consumer.ftc.gov/scams
+
+NOTE:
+The example above is a project example created for ScamGuardian. It is not presented as a real reported incident.

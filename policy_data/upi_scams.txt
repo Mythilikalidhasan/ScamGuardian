@@ -1,0 +1,41 @@
+SCAM TYPE: UPI / Digital Payment Scam
+
+DESCRIPTION:
+UPI and digital-payment scams attempt to trick a person into approving an unwanted transaction, sharing payment credentials, or interacting with a fraudulent payment request. Fraudsters may misuse UPI collect requests, fake QR codes, fake customer-support identities, or other payment-related messages.
+
+COMMON TACTICS:
+- Fake UPI collect/payment requests
+- Messages asking the user to enter a UPI PIN to receive money
+- Unauthorized QR codes
+- Fake payment or refund messages
+- Fake bank or wallet customer-support numbers
+- Requests to install an unknown application for payment assistance
+- Urgent requests to transfer money
+
+WARNING SIGNS:
+- Unexpected payment request
+- Request to enter UPI PIN to receive money
+- Unknown QR code
+- Unknown or unverified customer-support number
+- Urgency or pressure
+- Request to install an unknown application
+
+WHAT TO DO:
+- Do not approve an unexpected UPI collect request.
+- Remember that receiving money does not require entering a UPI PIN.
+- Be cautious when scanning an unfamiliar QR code.
+- Do not share UPI PIN, OTP, card details, or passwords.
+- Use the official bank or payment application's support channel.
+- If an unauthorized transaction occurs, contact the bank/payment service immediately and report the incident through the appropriate cybercrime channel.
+
+EXAMPLE:
+"Refund pending. Scan this QR code and enter your UPI PIN to receive the refund."
+
+SOURCE:
+- Reserve Bank of India, Consumer Awareness - Cyber Threats and Frauds
+  https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=53185
+- National Cyber Crime Reporting Portal
+  https://cybercrime.gov.in/
+
+NOTE:
+The example above is a project example created for ScamGuardian. It is not presented as a real reported incident.

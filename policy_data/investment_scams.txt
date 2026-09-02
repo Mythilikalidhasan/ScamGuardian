@@ -1,0 +1,38 @@
+SCAM TYPE: Investment / Financial Scheme Scam
+
+DESCRIPTION:
+Investment scams use false or misleading promises about investments, returns, financial opportunities, or schemes. A scammer may promise unusually high or guaranteed returns, create urgency, or request money through an unauthorized channel.
+
+COMMON TACTICS:
+- Promises of unusually high or guaranteed returns
+- Pressure to invest immediately
+- Fake investment platforms, websites, apps, or social-media profiles
+- Requests to transfer money to an unfamiliar account
+- Claims that a payment is required to release profits or funds
+- Impersonation of financial institutions or officials
+- Fraudulent investment schemes presented as legitimate opportunities
+
+WARNING SIGNS:
+- Guaranteed or unrealistic returns
+- Pressure to invest quickly
+- Unverified company, platform, or representative
+- Request for payment to unlock supposed profits
+- Communication through an unexpected social-media account or message
+- Lack of clear, independently verifiable information
+
+WHAT TO DO:
+- Do not invest only because of an unsolicited message or social-media recommendation.
+- Verify the organization and scheme independently.
+- Do not send money to an unfamiliar account because of pressure or promises of guaranteed returns.
+- Be cautious about schemes claiming to be authorized by government or financial authorities.
+- Preserve messages, payment information, and website details if you suspect fraud.
+- Report suspected financial/cyber fraud through the appropriate official authority.
+
+SOURCE:
+- Reserve Bank of India, Sachet portal
+  https://sachet.rbi.org.in/
+- National Cyber Crime Reporting Portal
+  https://cybercrime.gov.in/
+
+NOTE:
+This file provides scam-awareness guidance. It does not evaluate or endorse any particular investment product.
