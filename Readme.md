@@ -20,7 +20,7 @@ Features
 - Knowledge-base retrieval using vector search
 - Risk classification into Low, Medium, and High
 - Scam type identification
-- Simple explanation of why a message is suspicious
+- Explanation of why a message is suspicious
 - Recommended actions
 - Actions users should avoid
 - Display the knowledge-base sources used for analysis
@@ -28,48 +28,50 @@ Features
 
 Architecture
 
-                   User Message
-                        |
-                        v
-                Streamlit Interface
-                        |
-                        v
-              Hugging Face Embeddings
-                all-MiniLM-L6-v2
-                        |
-                        v
-                 ChromaDB Vector
-                    Database
-                        |
-                   Retrieve Top 3
-                  Relevant Chunks
-                        |
-                        v
-                 RAG Context
-                 Knowledge Base
-                        |
-                        v
-                    Groq LLM
-                  GPT-OSS-20B
-                        |
-                        v
-                ScamGuardian Result
-                        |
-          +-------------+-------------+
-          |             |             |
-          v             v             v
-      Scam Type     Risk Level    Recommendations
+User Message
+      |
+      v
+Streamlit Interface
+      |
+      v
+Hugging Face Embeddings
+all-MiniLM-L6-v2
+      |
+      v
+ChromaDB Vector Database
+      |
+      v
+Retrieve Top 3 Relevant Chunks
+      |
+      v
+RAG Context
+Knowledge Base
+      |
+      v
+Groq LLM
+GPT-OSS-20B
+      |
+      v
+ScamGuardian Analysis
+      |
+      +------------------+
+      |                  |
+      v                  v
+  Scam Type          Risk Level
+                         |
+                         v
+                  Safety Guidance
 
 How It Works
 
 1. Knowledge Base
 
-Scam-related information is stored as text files inside the "policy_data" folder.
+Scam-related information is stored as ".txt" files inside the "policy_data" folder.
 
 policy_data/
-    ├── scam_information.txt
-    ├── phishing.txt
-    └── other_policy_files.txt
+├── scam_information.txt
+├── phishing.txt
+└── other_policy_files.txt
 
 2. Document Loading
 
@@ -94,7 +96,7 @@ The text chunks are converted into vector representations called embeddings.
 
 The embeddings are stored in ChromaDB.
 
-When a user enters a suspicious message, ChromaDB retrieves the three most relevant knowledge-base chunks.
+When a user enters a suspicious message, the system retrieves the top 3 relevant knowledge-base chunks.
 
 6. RAG and LLM Analysis
 
@@ -119,7 +121,7 @@ Python| Core programming language
 Streamlit| Web application interface
 LangChain| RAG application framework
 Hugging Face| Text embedding model
-all-MiniLM-L6-v2| Generate text embeddings
+all-MiniLM-L6-v2| Text embeddings
 ChromaDB| Vector database
 Groq| LLM inference
 GPT-OSS-20B| Language model
@@ -133,8 +135,7 @@ ScamGuardian/
 ├── app.py
 │
 ├── policy_data/
-│   ├── *.txt
-│   └── scam knowledge-base files
+│   └── *.txt
 │
 ├── requirements.txt
 │
@@ -173,13 +174,13 @@ ScamGuardian uses the Groq API.
 Create the following file:
 
 .streamlit/
-    secrets.toml
+└── secrets.toml
 
-Add your API key:
+Add your Groq API key:
 
 GROQ_API_KEY = "your_groq_api_key"
 
-Do not upload your API key to GitHub.
+Do not upload your API key or "secrets.toml" file to GitHub.
 
 Run the Application
 
@@ -187,7 +188,7 @@ Run the following command:
 
 streamlit run app.py
 
-The Streamlit application will open in your browser.
+The application will open in your browser.
 
 Example
 
@@ -203,9 +204,9 @@ SCAM TYPE: Prize / Lottery Scam
 RISK LEVEL: High
 
 WHY IS IT A SCAM:
-The message promises a large prize and asks the user to
-pay a processing fee. This is a common warning sign of
-fraudulent prize messages.
+The message promises a large prize and asks the user
+to pay a processing fee. This is a common warning sign
+of fraudulent prize messages.
 
 WHAT TO DO:
 - Do not make the payment.
@@ -219,18 +220,13 @@ WHAT NOT TO DO:
 
 Screenshots
 
-Add screenshots of the application here to demonstrate the user interface and analysis results.
-
-screenshots/
-├── home.png
-├── high-risk-result.png
-└── knowledge-sources.png
-
-Then include them in the README:
+Add screenshots of the application here.
 
 ![ScamGuardian Home](screenshots/home.png)
 
 ![ScamGuardian Result](screenshots/high-risk-result.png)
+
+![Knowledge Sources](screenshots/knowledge-sources.png)
 
 Security
 
@@ -242,7 +238,7 @@ API keys and other secrets should never be committed to the GitHub repository.
 
 Future Enhancements
 
-- Support SMS and WhatsApp message analysis
+- SMS and WhatsApp message analysis
 - Suspicious URL detection
 - Multilingual scam detection
 - Scam analytics dashboard
@@ -253,8 +249,6 @@ Future Enhancements
 - Mobile-friendly interface
 
 Key Concepts Demonstrated
-
-This project demonstrates practical implementation of:
 
 - Retrieval-Augmented Generation (RAG)
 - Large Language Models (LLMs)
@@ -273,8 +267,8 @@ Mythili Kalidasan
 
 B.Sc. Computer Science — Artificial Intelligence
 
-GitHub: https://github.com/Mythilikalidhasan
+"GitHub" (https://github.com/Mythilikalidhasan)
 
 Project Repository
 
-https://github.com/Mythilikalidhasan/ScamGuardian
+"ScamGuardian" (https://github.com/Mythilikalidhasan/ScamGuardian)
